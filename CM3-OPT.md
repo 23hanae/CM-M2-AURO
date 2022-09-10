@@ -127,6 +127,7 @@ $$
 $$ 
 min f(x) = \frac{1}{2}(r_1^2 + r_2^2 +...+ r_m^2)
 $$
+
 $$
 r_i = \begin{bmatrix}
 2x_i &2y_i& 1\\
@@ -140,6 +141,7 @@ c
 x_i^2 + y_i^2\\
 \end{bmatrix} = ax_i + b_i
 $$
+
 Finalement on obtient :
 $$
 \begin{bmatrix}
@@ -172,7 +174,8 @@ $$
  $$        
 <u>__Gradient:__</u>
 
-$$\nabla f(x)= \begin{pmatrix}
+$$
+\nabla f(x)= \begin{pmatrix}
 2x^3 -2xy +x -1\\
 y - x^2
 \end{pmatrix}
