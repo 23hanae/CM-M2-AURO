@@ -146,7 +146,6 @@ $$\begin{bmatrix}
 2x_1 & 2y_1 & 1\\
 2x_m & 2y_m & 1
 \end{bmatrix}$$
-
 $$\begin{bmatrix}
 a\\
 b\\
