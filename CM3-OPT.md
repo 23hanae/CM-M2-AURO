@@ -4,8 +4,10 @@
 
 ## Exemple : Méthode de Newton
 ___________________
+
+f(x) = 
 $$
-f(x) = \frac{1}{2}x_1^2 + \frac{1}{4}x_2^4 - \frac{1}{2}x_2^2
+\frac{1}{2}x_1^2 + \frac{1}{4}x_2^4 - \frac{1}{2}x_2^2
 $$     
 <u>__Gradient:__</u>
 
