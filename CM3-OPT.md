@@ -5,10 +5,7 @@
 ## Exemple : Méthode de Newton
 ___________________
 
-f(x) = 
-$$
-\frac{1}{2}x_1^2 + \frac{1}{4}x_2^4 - \frac{1}{2}x_2^2
-$$     
+$$f(x) = \frac{1}{2}x_1^2 + \frac{1}{4}x_2^4 - \frac{1}{2}x_2^2$$     
 <u>__Gradient:__</u>
 
 $$\nabla f(x)= \begin{pmatrix}  
@@ -151,11 +148,13 @@ $$
 \\
 2x_m & 2y_m & 1
 \end{bmatrix}
+$$
+$$
 \begin{bmatrix}
 a\\
 b\\
 R^2-a^2-b^2
-\end{bmatrix}-
+\end{bmatrix} -
 \begin{bmatrix}
 x_1^2+y_1^2\\
 \\
