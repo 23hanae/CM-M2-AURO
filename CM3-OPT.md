@@ -116,7 +116,7 @@ Conclusion : on obitent un minimum local.
 ## Exemple : Critère des moindres carrés
 -----------
 
-  $$ min
+ $$ min
  f(x) = \frac{1}{2} [(x_i-a)^2 + (y_i - b)^2 - R^2]
  $$
 
@@ -126,7 +126,8 @@ $$
  
 $$ 
 min f(x) = \frac{1}{2}(r_1^2 + r_2^2 +...+ r_m^2)
-
+$$
+$$
 r_i = \begin{bmatrix}
 2x_i &2y_i& 1\\
 \end{bmatrix}
@@ -138,7 +139,6 @@ c
 \begin{bmatrix}
 x_i^2 + y_i^2\\
 \end{bmatrix} = ax_i + b_i
-\newline
 $$
 Finalement on obtient :
 $$
