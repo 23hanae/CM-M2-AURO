@@ -155,6 +155,7 @@ $$\begin{bmatrix}
 x_1^2+y_1^2\\
 x_m^2+y_m^2
 \end{bmatrix}$$
+
 -------------------
 ## Exemple : Gauss-Newton
 -----------
