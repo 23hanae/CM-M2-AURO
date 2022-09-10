@@ -125,7 +125,7 @@ r_i^2 = R^2 - (x_i^2 + a -2x_ia) - (y_i^2+b^2-2y_ib)
 $$
  
 $$ 
-min f(x) = \frac{1}{2}(r_1^2 + r_2^2 +...+ r_m^2)\newline
+min f(x) = \frac{1}{2}(r_1^2 + r_2^2 +...+ r_m^2)
 
 r_i = \begin{bmatrix}
 2x_i &2y_i& 1\\
