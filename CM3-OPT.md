@@ -143,7 +143,6 @@ x_i^2 + y_i^2\\
 Finalement on obtient :
 $$\begin{bmatrix}
 2x_1 & 2y_1 & 1\\
-\\
 2x_m & 2y_m & 1
 \end{bmatrix}
 \begin{bmatrix}
@@ -153,7 +152,6 @@ R^2-a^2-b^2
 \end{bmatrix} -
 \begin{bmatrix}
 x_1^2+y_1^2\\
-\\
 x_m^2+y_m^2
 \end{bmatrix}$$
 
