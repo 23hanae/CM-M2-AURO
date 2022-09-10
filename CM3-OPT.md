@@ -149,8 +149,7 @@ $$
 2x_m & 2y_m & 1
 \end{bmatrix}
 $$
-$$
-\begin{bmatrix}
+$$\begin{bmatrix}
 a\\
 b\\
 R^2-a^2-b^2
@@ -166,13 +165,9 @@ $$
 ## Exemple : Gauss-Newton
 -----------
 
- $$
- f(x,y) = \frac{1}{2}[(x^2 - y)^2 + (1 -x)^2]
- $$ 
+$$f(x,y) = \frac{1}{2}[(x^2 - y)^2 + (1 -x)^2]$$ 
  
- $$
- f(x) = \frac{1}{2}x_1^2 + \frac{1}{4}x_2^4 - \frac{1}{2}x_2^2
- $$        
+$$f(x) = \frac{1}{2}x_1^2 + \frac{1}{4}x_2^4 - \frac{1}{2}x_2^2$$        
 <u>__Gradient:__</u>
 
 $$
