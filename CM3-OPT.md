@@ -171,41 +171,38 @@ y - x^2
 $$
 
 <u>__Matrice Hessienne:__</u>
+
 $$\nabla^2 f(x)= \begin{pmatrix}
 6x^2 -2y +1& -2x\\
 -2x&  1
-\end{pmatrix}
+\end{pmatrix}$$
 
-\nabla r_1 = \begin{pmatrix}
+$$\nabla r_1 = \begin{pmatrix}
 2x\\
 -1
 \end{pmatrix}; \hspace{0.1cm}
 \nabla r_2 = \begin{pmatrix}
 -1\\
 0
-\end{pmatrix}\newline
+\end{pmatrix}$$
 
-\nabla^2 r_1 = \begin{pmatrix}
+$$\nabla^2 r_1 = \begin{pmatrix}
 2 & 0\\
 0 & 0
 \end{pmatrix}; \hspace{0.1cm}
 \nabla^2 r_2 = \begin{pmatrix}
 0 & 0\\
 0 & 0
-\end{pmatrix}
-$$
+\end{pmatrix}$$
 
 <u>__Matrice Jacobienne:__</u>
 
-$$
-J(x) = \begin{pmatrix}
+$$J(x) = \begin{pmatrix}
 2x & -1\\
 -1 & 0
-\end{pmatrix}
-$$
+\end{pmatrix}$$
 d'où :
-$$
-\nabla f(x) = \begin{pmatrix}
+$$\nabla f(x) = \begin{pmatrix}
 2x & -1\\
 -1 & 0
 \end{pmatrix}
@@ -215,16 +212,14 @@ x^2-y\\
 \end{pmatrix} = \begin{pmatrix}
 2x^3 -2xy +x -1\\
 y -x^2
-\end{pmatrix}
-$$ 
+\end{pmatrix}$$ 
 
 On approxime la matrice hessienne :
-$$
-\nabla^2 f(x) = J.J^T = \begin{pmatrix}
+
+$$\nabla^2 f(x) = J.J^T = \begin{pmatrix}
 4x^2 + 1 & -2x\\
 -2x & 1
-\end{pmatrix}
-$$
+\end{pmatrix}$$
 
 
 
